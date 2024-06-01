@@ -1,4 +1,4 @@
-# 'xcode' module
+# 'xcode' Module
 
 This repository is designed to be used as a submodule to the [`set-me-up` blueprint](https://github.com/dotbrains/set-me-up-blueprint) repository.
 
